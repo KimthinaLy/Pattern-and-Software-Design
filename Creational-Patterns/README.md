@@ -1,4 +1,4 @@
-## 💡[Creational Patterns](Creational-Patterns)  
-- [Factory Method](Creational-Patterns/Factory-Method)  
-- [Abstract Factory](Creational-Patterns/Abstract-Factory)  
-- [Builder](Creational-Patterns/Builder)  
+## 💡Creational Patterns  
+- [Factory Method](Factory-Method)  
+- [Abstract Factory](Abstract-Factory)  
+- [Builder](Builder)  
