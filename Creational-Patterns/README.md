@@ -3,3 +3,5 @@ Provide flexible ways to create objects, helping manage object creation without 
 - [Factory Method](Factory-Method)
 - [Abstract Factory](Abstract-Factory)  
 - [Builder](Builder)  
+- [Prototype](Prototype)
+- [Singleton](Singleton)
