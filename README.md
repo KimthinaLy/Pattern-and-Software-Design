@@ -30,4 +30,4 @@ This repository contains clear examples for each pattern.
 - [Flyweight](Structural-Patterns/Flyweight)
 - [Proxy](Structural-Patterns/Proxy)
 
-# 🎭🎮🎨 [Mix Pattern Visitor: Visitor + Command + Decorator] (Mix-Patterns)
+## 🎭🎮🎨 [Mix Pattern Visitor: Visitor + Command + Decorator](Mix-Patterns)
