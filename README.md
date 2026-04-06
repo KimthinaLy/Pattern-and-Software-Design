@@ -7,3 +7,5 @@ This repository contains clear examples for each pattern.
 - [Builder](Creational-Patterns/Builder)
 - [Prototype](Creational-Patterns/Prototype)
 - [Singleton](Creational-Patterns/Singleton)  
+## 🧱 [Structural Patterns](Structural-Patterns)
+## 🔄 [Behavioral Patterns](Behavioral-Patterns)
