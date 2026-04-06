@@ -29,3 +29,5 @@ This repository contains clear examples for each pattern.
 - [Facade](Structural-Patterns/Facade)
 - [Flyweight](Structural-Patterns/Flyweight)
 - [Proxy](Structural-Patterns/Proxy)
+
+# 🎭🎮🎨 [Mix Pattern Visitor]: Visitor + Command + Decorator (Mix-Pattern)
