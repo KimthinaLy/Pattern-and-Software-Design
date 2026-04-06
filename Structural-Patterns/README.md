@@ -1,6 +1,6 @@
 # 🧱 [Structural Patterns](Structural-Patterns)
 
-Deal with how classes and objects are composed to form larger structures.
+Structural-Patterns - Deal with how classes and objects are composed to form larger structures.
 
 - [Adapter](Adapter)
 - [Bridge](Bridge)
