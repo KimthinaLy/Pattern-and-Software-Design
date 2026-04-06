@@ -11,7 +11,7 @@ This repository contains clear examples for each pattern.
 - [Observer](Behavioral-Patterns/Observer)
 - [State](Behavioral-Patterns/State)
 - [Strategy](Behavioral-Patterns/Strategy)
-- [Template Method](Behavioral-Patterns/Template Method)
+- [Template-Method](Behavioral-Patterns/Template-Method)
 - [Visitor](Behavioral-Patterns/Visitor)
 
 ## 💡[Creational Patterns](Creational-Patterns)  
