@@ -1,6 +1,6 @@
 # 🔄 Behavioral Patterns
 
-Focus on how objects communicate and interact, making systems more flexible and easier to manage.
+Behavioral Patterns - Focus on how objects communicate and interact, making systems more flexible and easier to manage.
 
 - [Chain-of-Responsibility](Chain-of-Responsibility)
 - [Command](Command)
